@@ -248,7 +248,7 @@ P["WindTools"]["More Tools"] = {
 		["enabled"] = true,
 	},
 	["Enhanced Blizzard Frame"] = {
-		["enabled"] = true,
+		["enabled"] = false,
 		["moveframe"] = true,
 		["moveelvbag"] = false,
 		["remember"] = true,

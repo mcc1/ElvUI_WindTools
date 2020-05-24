@@ -28,7 +28,7 @@ P["WindTools"]["Chat"] = {
         correction = {enabled = true, dun_to_slash = true}
     },
     ["Chat Bar"] = {
-        enabled = true,
+        enabled = false,
         style = {
             smart_hide = false,
             bar_backdrop = false,
